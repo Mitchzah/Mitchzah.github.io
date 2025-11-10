@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ubihere
-subtitle: Summer Intern at this NASA-funded research company and leader in autonomous video intelligence.
+subtitle: 2025 Summer Intern at this NASA-funded research company and leader in autonomous video intelligence.
 ---
-
+[Ubihere](https://www.ubihere.com)
 Skills Utilized: Python, Docker, ETL, AWS, DynamoDB, Scripting, SQL, Problem Solving
 
 - Developed software in Python code for a Docker video processor, ensuring 100% processing of real-time video streams and reducing redundant downstream training cycles by 25%.
