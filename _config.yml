@@ -21,10 +21,11 @@ author: Mitchell Zahner
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Experience:
+    - Ubihere: "https://beautifuljekyll.com"
+    - OSU: "https://www.markdowntutorial.com/"
+  Creations: "https://deanattali.com"
+  Explorations: "www.google.com"
 
 ################
 # --- Logo --- #
