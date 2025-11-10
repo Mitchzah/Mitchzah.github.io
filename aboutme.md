@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why do they call you "The Mitch"
+subtitle: What you should know about Mitchell Zahner
 ---
 
-My name is Mitchell Zahner.  Some folks think:
+Some folks think:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am really good at Computers.
+  - Reality: I have always been computing, still learning eveeryday :-)
+- I like building things.
+  - Reality: I love my Lego Ninjago builds.
+- I am easy to find at a volleyball game.
+  - Reality: I supply alot of energy on the court! 
 
-What else do you need?
+To be honest, I try to learn as much as I possibly can everyday.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
