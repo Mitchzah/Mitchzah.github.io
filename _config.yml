@@ -22,10 +22,10 @@ author: Mitchell Zahner
 navbar-links:
   About Me: "aboutme"
   Experience:
-    - Ubihere: "https:"
-    - OSU: "https://www.markdowntutorial.com/"
-  Creations: "https://deanattali.com"
-  Explorations: "www.google.com"
+    - Ubihere: "https://www.google.com"
+    - OSU: "https://www.google.com/"
+  Creations: "https://www.google.com"
+  Explorations: "https://www.google.com"
 
 ################
 # --- Logo --- #
