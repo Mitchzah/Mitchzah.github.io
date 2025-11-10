@@ -21,6 +21,7 @@ author: Mitchell Zahner
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "aboutme"
   Experience:
     - SWE @ Ubihere: "ubihere"
     - TA @ OSU: "https://www.google.com/"
