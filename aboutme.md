@@ -11,7 +11,7 @@ subtitle: What you should know about Mitchell Zahner
 - I like building things.
   - Reality: I love Lego Ninjago builds, Minecraft and any opportunity to breakdown complex projects into workable items.
 - I am easy to find at a volleyball game.
-  - Reality: I supply alot of positive energy on the court.
+  - Reality: I supply an over abundance of positive energy on the court.
     
 # nicknames
 
@@ -21,6 +21,7 @@ subtitle: What you should know about Mitchell Zahner
 # summary
 
 - I love learning about new technologies, creating new software, and exploring new ideas.
-- I'm also a big supporter of the intersection of healthcare and technology, robotics, and a big foodie :).
+- I'm also a big supporter of the intersection of healthcare and technology as well as robotics.
 - I love bringing out the best in others in hopes they reach higher levels.
+- I am a foodie, I will try anything and enjoy most everything.
 - Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage. 
