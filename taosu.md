@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Undergrad Teaching Assitant 
-subtitle: Part-time teaching assistant at The Ohio State University.
+title: Teaching Assistant 
+subtitle: Part-time undergrad teaching assistant at The Ohio State University.
 ---
 Starting in the fall semester of 2025, I have hasd the proviledge of working with the Computer Science and Engineering Despartment in delivering Programming in Python.  
 
