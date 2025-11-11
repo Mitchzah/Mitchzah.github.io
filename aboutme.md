@@ -23,5 +23,8 @@ subtitle: What you should know about Mitchell Zahner
 - I love learning about new technologies, creating new software, and exploring new ideas.
 - I'm also a big supporter of the intersection of healthcare and technology as well as robotics.
 - I love bringing out the best in others in hopes they reach higher levels.
-- I am a foodie, I will try anything and enjoy most everything.
-- Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage. 
+- I love every type of volleyball (sand, grass, mud and indoors).
+- I am a foodie, I will try anything and enjoy almost everything.
+- Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage.
+
+![](assets/img/flying.png)
