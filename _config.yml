@@ -20,15 +20,14 @@ author: Mitchell Zahner
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Resume: "resume"
   Experience:
     - SWE @ Ubihere: "ubihere"
     - TA @ OSU: "taosu"
-  Creations:
-    - Short URL: "shorturl"
   Explorations:
+    - Short URL: "shorturl"
     - PCVLab @ OSU: "pcvlab"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
