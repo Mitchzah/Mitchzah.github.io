@@ -13,5 +13,5 @@ Skills Utilized: Python, Docker, ETL, AWS, DynamoDB, Scripting, SQL, Problem Sol
 
 - Collaborated with Software Quality Assurance, tested software, and did performance tuning on a Python/DynamoDB indexing system to enable rapid extraction of video segments, reducing query times by 20%.
 
-[Ubihere](https://www.ubihere.com) 
-![](assets/img/Ubihere-Mars-1.jpg)
+<p style="text-align:center;">[Ubihere](https://www.ubihere.com)</p> 
+<p style="text-align:center;">![](assets/img/Ubihere-Mars-1.jpg)</p>
