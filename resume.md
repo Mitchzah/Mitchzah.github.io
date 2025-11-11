@@ -41,7 +41,7 @@ Computer Science major with a strong  foundation in software development seeking
 - _**Skills Utilized: Python, AWS, API Gateway, Lambda, GitHub Actions, Terraform, CI/CD, Devops**_
 
 # core skills
-Programming Languages: 
+Programming Languages 
 - Python
 - Java
 - C
@@ -52,7 +52,7 @@ Programming Languages:
 - HTML
 - Scripting
   
-Cloud, OS and Databases: 
+Cloud, OS and Databases 
 - AWS
 - DynamoDB
 - Lambda
@@ -61,7 +61,7 @@ Cloud, OS and Databases:
 - Docker
 - Database Development
   
-Development Tools: 
+Development Tools
 - Google Colab
 - VS Code
 - Jira
