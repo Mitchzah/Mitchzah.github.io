@@ -24,9 +24,11 @@ navbar-links:
   Resume: "resume"
   Experience:
     - SWE @ Ubihere: "ubihere"
-    - TA @ OSU: "https://www.google.com/"
-  Creations: "https://www.google.com"
-  Explorations: "https://www.google.com"
+    - TA @ OSU: "taosu"
+  Creations:
+    - Short URL: "shorturl"
+  Explorations:
+    - PCVLab @ OSU: "pcvlab"
 
 ################
 # --- Logo --- #
