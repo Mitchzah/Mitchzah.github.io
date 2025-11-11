@@ -15,7 +15,7 @@ subtitle: What you should know about Mitchell Zahner
     
 # Nicknames people have given me:
 
-  - "The Mitch" - Reference to "The Rock" and his possitivity in light of dire odds.
+  - "The Mitch" - Reference to "The Rock" and his positivity in light of dire odds.
   - "The Berlin Wall" - Reference to my high school (Olentangy Berlin) and record setting number of blocks in volleyball. 
  
 # In summary:
