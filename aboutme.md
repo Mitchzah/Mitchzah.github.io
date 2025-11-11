@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: What you should know about Mitchell Zahner
 ---
 
-Some folks think:
+# Some folks think:
 
 - I am really good at Computers.
   - Reality: I have always been computing, still learning eveeryday.  Knowing what you don't know is a powerful thing :-)
@@ -16,6 +16,6 @@ Some folks think:
   - "The Mitch" - Reference to "The Rock" and his possitivity in light of dire odds.
   - "The Berlin Wall" - Reference to my high school (Olentangy Berlin) and record setting number of blocks in volleyball. 
  
-In summary:
+# In summary:
 
 I love learning about new technologies, creating new softwares, and exploring new ideas. I'm also a big supporter of the intersection of healthcare and technology, robotics, and a big foodie :). Currently, I have experience in conducting research and teaching at OSU, supporting cloud infrastructure, and building applications. 
