@@ -1,26 +1,15 @@
 ---
 layout: page
-title: shorturl
-subtitle: shorturl
+title: Short URL Redirect
+subtitle: Personal project to demonstrate AWS components, Python programming and DevOps best practices
 ---
+Our local boosters needed a cheap way to create short URLs, like ShortURL or TinyURL, where you input a valid URL address and the application gives you a redirect URL with a small code attached. The boosters then use this in their flyers and on their fund raising websites to make the donor experience easier and to allow for individualized tracking for each booster family.
 
-# Some folks think:
+It was a fun project and has been used many times in past year.
 
-- I am really good at Computers.
-  - Reality: I have always been computing, still learning everyday.  Knowing what you don't know is a powerful thing :-)
-- I like building things.
-  - Reality: I love Lego Ninjago builds, Minecraft and any opportunity to breakdown complex projects into workable items.
-- I am easy to find at a volleyball game.
-  - Reality: I supply alot of positive energy on the court.
-    
-# Nicknames people have given me:
+Skills Utilized: Python, AWS, API Gateway, Lambda, GitHub Actions, Terraform, CI/CD, Devops 
 
-  - "The Mitch" - Reference to "The Rock" and his positivity in light of dire odds.
-  - "The Berlin Wall" - Reference to my high school (Olentangy Berlin) and record setting number of blocks in volleyball. 
- 
-# In summary:
+- Configured an AWS API Gateway (api.mitch-zahner.com) to expose REST API endpoints that triggered two Python programs to run in AWS Lambdas.
+- Automated deployment to AWS cloud infrastructure upon commit via GitHub Actions and Terraform.
 
-- I love learning about new technologies, creating new software, and exploring new ideas.
-- I'm also a big supporter of the intersection of healthcare and technology, robotics, and a big foodie :).
-- I love bringing out the best in others in hopes they reach higher levels.
-- Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage. 
+ ![](assets/img/shorturl.png)
