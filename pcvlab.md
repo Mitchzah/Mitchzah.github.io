@@ -1,26 +1,11 @@
 ---
 layout: page
 title: pcvlab
-subtitle: osu research
+subtitle: Spring semester 2025 student research in the Photogrammetric Computer Vision Lab at OSU
 ---
+Selected to be a part of this Undergraduate Research Program at OSU to conduct ML research under the Photogrammetric Computer Vision Lab
 
-# Some folks think:
+Skills Utilized: Python, PyTorch, Maskfi, Problem Solving
+● Studied maskfi, an emerging technology utilizing a WiFi-based computer vision model to track human gestures without direct video, focusing on equipment placement and QA of diagnostic instruments settings.
 
-- I am really good at Computers.
-  - Reality: I have always been computing, still learning everyday.  Knowing what you don't know is a powerful thing :-)
-- I like building things.
-  - Reality: I love Lego Ninjago builds, Minecraft and any opportunity to breakdown complex projects into workable items.
-- I am easy to find at a volleyball game.
-  - Reality: I supply alot of positive energy on the court.
-    
-# Nicknames people have given me:
-
-  - "The Mitch" - Reference to "The Rock" and his positivity in light of dire odds.
-  - "The Berlin Wall" - Reference to my high school (Olentangy Berlin) and record setting number of blocks in volleyball. 
- 
-# In summary:
-
-- I love learning about new technologies, creating new software, and exploring new ideas.
-- I'm also a big supporter of the intersection of healthcare and technology, robotics, and a big foodie :).
-- I love bringing out the best in others in hopes they reach higher levels.
-- Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage. 
+ ![](assets/img/HAR.png)
