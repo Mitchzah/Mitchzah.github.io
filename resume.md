@@ -24,21 +24,21 @@ Computer Science major with a strong  foundation in software development seeking
 **Undergrad Teaching Assistant** | Ohio State University | Columbus OH | Sep 2025 - Present
 - Part-time teaching assistant for the Department of Computer Science and Engineering.
 - _Skills Utilized: Python, GitHub, Teaching, Problem Solving, Software Development_
-- Delivered instructional support to 58 students in Programming Python, fostering problem-solving skills and enhancing understanding of software development principles.
-- Provided lab support, graded 100’s of assignments, and supplied feedback demonstrating strong interpersonal skills and active listening.
+  - Delivered instructional support to 58 students in Programming Python, fostering problem-solving skills and enhancing understanding of software development principles.
+  - Provided lab support, graded 100’s of assignments, and supplied feedback demonstrating strong interpersonal skills and active listening.
 
 **Engineering Intern** | Ubihere | Hilliard, OH | May 2025 - Aug 2025
 - Summer Intern at this NASA-funded research company and leader in autonomous video intelligence.
 - _Skills Utilized: Python, Docker, ETL, AWS, DynamoDB, Scripting, SQL, Problem Solving_
-- Developed software in Python code for a Docker video processor, ensuring 100% processing of real-time video streams and reducing redundant downstream training cycles by 25%.
-- Collaborated with Software Quality Assurance, tested software, and did performance tuning on a Python/DynamoDB indexing system to enable rapid extraction of video segments, reducing query times by 20%.
+  - Developed software in Python code for a Docker video processor, ensuring 100% processing of real-time video streams and reducing redundant downstream training cycles by 25%.
+  - Collaborated with Software Quality Assurance, tested software, and did performance tuning on a Python/DynamoDB indexing system to enable rapid extraction of video segments, reducing query times by 20%.
 
 # Projects
 **Short URL Generator and Redirect** | Dec 2024 - Jan 2025
 - Personal project to demonstrate AWS components, Python programming and DevOps best practices in an AWS cloud environment to provide a REST API for short URLs.
 - _Skills Utilized: Python, AWS, API Gateway, Lambda, GitHub Actions, Terraform, CI/CD, Devops_ 
-- Configured an AWS API Gateway (api.mitch-zahner.com) to expose REST API endpoints that triggered two Python programs to run in AWS Lambdas.
-- Automated deployment to AWS cloud infrastructure upon commit via GitHub Actions and Terraform.
+  - Configured an AWS API Gateway (api.mitch-zahner.com) to expose REST API endpoints that triggered two Python programs to run in AWS Lambdas.
+  - Automated deployment to AWS cloud infrastructure upon commit via GitHub Actions and Terraform.
 
 # Core Skills
 Programming Languages: 
