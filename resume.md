@@ -3,7 +3,11 @@ layout: page
 title: resume
 subtitle: Mitchell Zahner
 ---
-zahner.14@osu.edu | linkedin.com/in/mitchell-zahner | github.com/mitchzah | 614-867-6227 | Columbus, OH, 43210
+zahner.14@osu.edu
+linkedin.com/in/mitchell-zahner
+github.com/mitchzah
+614-867-6227
+Columbus, OH, 43210
 
 Summary
 Motivated Computer Science junior with a strong  foundation in software development seeking internship to expand knowledge of delivering software with generative AI.  Eager to apply existing Python, C, and Java competencies in software development projects and leverage problem-solving, software design and project delivery skills.  
