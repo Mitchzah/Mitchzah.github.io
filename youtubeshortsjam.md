@@ -1,6 +1,6 @@
 ---
 layout: page
-title: YouTube Shorts Jam BDAA + Lovable 
+title: YouTube Shorts Jam 
 subtitle: BDAA + Lovable Hackathon entry on 11/16/25
 ---
 The idea for Shorts Jam was born from a simple observation: we're more connected than ever, yet we scroll alone.
