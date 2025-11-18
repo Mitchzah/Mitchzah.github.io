@@ -19,3 +19,11 @@ Skills Utilized:
 We built a fully functional, real-time social experience from scratch in record time. Shorts Jam proves that technology can enhance human connection rather than isolate us. Every feature was designed with one question: "Does this bring people closer together?"
 
 The answer? Yes.
+
+<a href="https://youtu.be/PbXGODDa2f8">
+  <img src="/assets/img/youtubeshortsjam.png" alt="Video Demosntrating the Concept">
+</a>
+
+
+<a href="https://devpost.com/software/youtube-shorts-jam">Project Page</a>
+
