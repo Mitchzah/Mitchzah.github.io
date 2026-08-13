@@ -23,6 +23,7 @@ navbar-links:
   Resume: "resume"
   About Me: "aboutme"
   Experience:
+    - AIE @ OSU WMC: "osuwmc"
     - SWE @ Ubihere: "ubihere"
     - TA @ OSU: "taosu"
   Exploration:
