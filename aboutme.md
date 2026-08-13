@@ -25,6 +25,8 @@ subtitle: What you should know about Mitchell Zahner
 - I love bringing out the best in others in hopes they reach higher levels.
 - I love every type of volleyball (sand, grass, mud and indoors).
 - I am a foodie, I will try anything and enjoy almost everything.
-- Currently, I have experience in conducting research and teaching at OSU, worked at a tech startup, and have built applications for education and personal usage.
+- I have experience in conducting research and teaching at OSU.
+- I interned at a tech startup doing computer vision, and have built applications for education and personal usage.
+- I am currently working at The OSU Wexner Medical Center in the Innovation and New Capabilities Acceleration Team, doing conversational AI projects to help improve our patients outcomes.
 
 ![](assets/img/flying.png)
