@@ -32,14 +32,14 @@ Computer Science senior specializing in AI seeking full time AI/ML engineering r
 
 **Undergrad Teaching Assistant** | Ohio State University | Columbus OH | Sep 2025 - May 2026
 - Part-time teaching assistant for the Department of Computer Science and Engineering.
-  - Delivered instructional support to 58 students in Programming Python, fostering problem-solving skills and enhancing understanding of software development principles.
-  - Provided lab support, graded 100’s of assignments, and supplied feedback demonstrating strong interpersonal skills and active listening.
+  - Tutored 50+ students in Python, covering foundational syntax, control flow, list comprehensions, slices and generators; instructing students on approaches to debugging and best coding practices. 
+  - Guided students in object-oriented programming, design patterns, graph theory, and NumPy library usage; graded 100s of assignments and provided actionable feedback to strengthen code quality and design.
 - _**Skills Utilized: Python, GitHub, Teaching, Problem Solving, Software Development**_
 
 **Engineering Intern** | Ubihere | Hilliard, OH | May 2025 - Aug 2025
 - Summer Intern at this NASA-funded research company and leader in autonomous video intelligence.
-  - Developed software in Python code for a Docker video processor, ensuring 100% processing of real-time video streams and reducing redundant downstream training cycles by 25%.
-  - Collaborated with Software Quality Assurance, tested software, and did performance tuning on a Python/DynamoDB indexing system to enable rapid extraction of video segments, reducing query times by 20%.
+  - Developed ETL software in Python for a video preprocessor to clean, resize and split videos, ensuring 100% processing of streams and reducing downstream machine learning model training time by 25%.
+  - Collaborated with Software Quality Assurance to test and debug Python services. Implemented improvements to a Python/DynamoDB indexing system to enable rapid extraction of video segments, reducing query times by 22%.
 - _**Skills Utilized: Python, Docker, ETL, AWS, DynamoDB, Scripting, SQL, Problem Solving**_
 
 # projects
